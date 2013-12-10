@@ -1,21 +1,12 @@
 alfredworkflow-seujwc
 =====================
 
-alfredworkflow for seu accademy affairs website
+* This is a workflow used for searching information on the website of Academy Affairs of Southeast University, Nanjing, China. The related website is: http://jwc.seu.edu.cn
 
-this is a workflow using for search information in the website of academy affairs in southeast university , nanjing ,jiangsu,china
+* The {query} can be news, info, inter, SRTP. It searches different pages of the website.
 
-The website is:jwc.seu.edu.cn
+* This first version is for my personal learning and coding, and I will keep working on it.
 
-the {query} which can be accepted is news,info,inter,srtp,with which can search the different pages of this website.
+* If you are interested, please e-mail me at jvdajd@gmail.com
 
-this is only a version for my personal learning and coding.
-
-I will keep working on it.
-
-if you are interested in it ,welcome to contact me 
-jvdajd@gmail.com
-
-or my blog(written in chinese)
-
-http://www.cnblogs.com/kururu/
+* You can visit my blog (in Chinese) at http://www.cnblogs.com/kururu/
